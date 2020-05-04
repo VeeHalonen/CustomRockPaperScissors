@@ -26,7 +26,7 @@ All commands are recognized as either upper or lower case.
 
 After this, the game returns to the main menu where the user can choose a new game or customize their gameplay.
 
-<b>Custom Game</b> allows the user to set their own names for the rock, the paper, and the scissors. Any type of names are accepted as long as the three names are different from each other. There is a confirmation dialogue at the end. After the changes have been made, the user is brought back to the now updated main menu.
+<b>Custom Game</b> allows the user to set their own names for the rock, the paper, and the scissors. Any type of name is accepted as long as the three names are different from each other. There is a confirmation dialogue at the end. After the changes have been made, the user is brought back to the now updated main menu.
 
 <code>*** Welcome to Fire-Water-Grass! ***</code><br>
 

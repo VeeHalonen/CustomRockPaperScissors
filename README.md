@@ -46,7 +46,7 @@ The Play mode still works the same way as before but now using the user-defined 
 <code>AI: Fire</code><br>
 <code>It's a tie!</code><br>
 
-<b>Restore Defaults</b> returns the game back to the initial state of Rock-Paper-Scissors. This command is only accessible if custom commands have been set. There is once again a confirmation dialogue before any changes are reversed.
+<b>Restore Defaults</b> returns the game back to the initial state of Rock-Paper-Scissors. This command only executes if a custom mode has been set. There is once again a confirmation dialogue before the default state is restored.
 
 <b>Quit</b> exits the program.
 

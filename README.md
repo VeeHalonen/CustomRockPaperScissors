@@ -1,6 +1,6 @@
 # CustomRockPaperScissors
 
-This is your classic Rock, Paper, Scissors game. The only difference is that the user is able to customize it by choosing their own "rock", "paper", and "scissors".
+This is your classic Rock, Paper, Scissors game. The only difference is that the user is able to customize it by choosing their own Rock, Paper, and Scissors. For example: Dragon beats Orc, Orc beats Hobbit, Hobbit beats Dragon.
 
 When launched, the following menu opens:
 

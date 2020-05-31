@@ -14,7 +14,7 @@ When launched, the following menu opens:
 
 All commands are recognized as either upper or lower case.
 
-<b>Play</b> starts a new game where the user and the computer play Rock, Paper, Scissors against each other. <b>Q</b> quits the game and prints the win statistics, for example:
+**Play** starts a new game where the user and the computer play Rock, Paper, Scissors against each other. **Q** quits the game and prints the win statistics, for example:
 
 <code>&#42;&#42;&#42;STATS&#42;&#42;&#42;</code><br>
 <code>Rounds played: 5</code><br>
@@ -26,7 +26,7 @@ All commands are recognized as either upper or lower case.
 
 After this, the game returns to the main menu where the user can choose a new game or customize their gameplay.
 
-<b>Custom Game</b> allows the user to set their own names for the rock, the paper, and the scissors. Any type of name is accepted as long as the three names are different from each other. There is a confirmation dialogue at the end. After the changes have been made, the user is brought back to the now updated main menu.
+**Custom Game** allows the user to set their own names for the rock, the paper, and the scissors. Any type of name is accepted as long as the three names are different from each other. There is a confirmation dialogue at the end. After the changes have been made, the user is brought back to the now updated main menu.
 
 <code>*** Welcome to Fire-Water-Grass! ***</code><br>
 
@@ -46,7 +46,7 @@ The Play mode still works the same way as before but now using the user-defined 
 <code>AI: Fire</code><br>
 <code>It's a tie!</code><br>
 
-<b>Restore Defaults</b> returns the game back to the initial state of Rock-Paper-Scissors. This command only executes if a custom mode has been set. There is once again a confirmation dialogue before the default state is restored.
+**Restore Defaults** returns the game back to the initial state of Rock-Paper-Scissors. This command only executes if a custom mode has been set. There is once again a confirmation dialogue before the default state is restored.
 
-<b>Quit</b> exits the program.
+**Quit** exits the program.
 
